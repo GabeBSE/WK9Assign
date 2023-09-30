@@ -1,0 +1,5 @@
+.img-fixed-height {  /* This is to get my 3 guitar pics to the same size*/
+    height: 900px; /* Adjust the height as needed */
+    object-fit: cover; /* This ensures the image retains its aspect ratio */
+}
+
